@@ -1,1 +1,1 @@
- this is the java 2nd file with nothing file 2
+ this is the java 2nd file with nothing file dk2
