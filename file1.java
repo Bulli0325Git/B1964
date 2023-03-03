@@ -7,3 +7,4 @@ java 1
 >>>>>>> parent of ea5dbb4 (updatedfile1)
 	>>>>>>> this is in the development branch updating the content
 	>>>>>>>
+	>>>>>>>for stash saving
